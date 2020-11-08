@@ -1,0 +1,2 @@
+mailDirectory = /tmp/kafka-test
+fileCreatorThreadSleepTime = 5
